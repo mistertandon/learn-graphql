@@ -1,1 +1,1 @@
-# dl-04-word-embeddings
+# GraphQL
